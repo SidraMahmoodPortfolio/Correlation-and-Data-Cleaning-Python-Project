@@ -4,9 +4,9 @@ Using a movie dataset, I explored the relationships between different variables 
 
  Skills & Tools Learned
 
-			Python: Data manipulation and analysis
+		Python: Data manipulation and analysis
      	Pandas: Loading, cleaning, and exploring datasets
-			NumPy: Working with numerical data
+		NumPy: Working with numerical data
 	    Matplotlib / Seaborn: Data visualization and styling
 	    Correlation Analysis: Heatmaps, scatter plots, and statistical relationships
  	    Data Cleaning Techniques:
@@ -18,6 +18,6 @@ Using a movie dataset, I explored the relationships between different variables 
  Key Insights
 
 	    Identified strong correlations between a movie’s budget and its gross revenue.
-			Explored how ratings and votes relate to box office performance.
-			Learned how outliers can influence correlation results.
+		Explored how ratings and votes relate to box office performance.
+		Learned how outliers can influence correlation results.
 
